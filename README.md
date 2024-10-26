@@ -2,4 +2,4 @@
 
 Thank you for playing Tower of Nod!
 
-Please contact at tinyabyssgames@gmail.com
+Please contact at <tinyabyssgames@gmail.com>
